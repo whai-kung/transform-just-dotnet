@@ -6,7 +6,7 @@ the application will show the result of the mapping.
 
 ## To run this project
 1. Using any IDE you are comfortable with then run this project
-2. Open the {host}/static/index.html
+2. Open the `{host}/static/index.html`
 3. Putting your source data and transform mapping code
 4. Click Submit then get your result.
 
